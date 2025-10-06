@@ -10,7 +10,7 @@ I enjoy working with data and solving real-world problems.
 - SQL (basic)
 
 ## 📊 Projects
-- [MOvies Project](https://github.com/saidbekovabdulloh920-cpu/Movies/tree/main)
+- [Movies Project](https://github.com/saidbekovabdulloh920-cpu/Movies/tree/main)
 - [Sales Dashboard](https://github.com/saidbekovabdulloh920-cpu/Sales-Dashboard)
 
 ## 📬 Contact
